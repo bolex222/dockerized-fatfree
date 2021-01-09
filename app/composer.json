@@ -1,0 +1,6 @@
+{
+    "name": "bolex222/dockerize-fat-free",
+    "require": {
+        "bcosca/fatfree": "^3.7"
+    }
+}
